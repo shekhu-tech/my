@@ -6,7 +6,7 @@
 }
 h5{
 	color:#E6E1E0;
-	font-family:berlin sons fb demi;
+	font-family:berlin sons fb demi,courier;
 	font-weight: bold; 
 }
 .navbar-toggler{
@@ -15,19 +15,19 @@ h5{
 
 h6{
 	color:#E6E1E0;
-	font-family:berlin sons fb demi;
+	font-family:berlin sons fb demi,courier;
 	font-weight: bold;
 }
 
 .dropdown-menu{
   background-color: #FF8181;
-  font-family: berlin sons fb demi;
+  font-family: berlin sons fb demi,courier;
   font-color: white;
   font-weight: bold;
 } 
 .dropdown{
 	background-color:none;
-	font-family:berlin sons fb demi;
+	font-family:berlin sons fb demi,courier;
 	font-weight: bold;
 }
 .footer{
